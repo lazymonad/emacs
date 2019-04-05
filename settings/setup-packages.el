@@ -1,3 +1,4 @@
+
 ;; Install extensions if they're missing
 (defun init--install-packages ()
   (packages-install
@@ -17,6 +18,7 @@
      move-text
      smex
      yasnippet
+     evil
      )))
 
 ;; Install
