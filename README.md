@@ -1,7 +1,6 @@
 # Lazy Monad emacs #
 
-Changing vim to emacs without evil-mode. And this is my first working configuration of it.
-
+Ma newest emacs config with evil inside
 
 ### Quick start guide ###
 
